@@ -1,0 +1,45 @@
+body  {
+  text-align: center;
+}
+
+h2  {
+  margin-top: 10px;
+}
+
+button {
+  display: inline-block;
+}
+
+.photo {
+  max-width: 400px;
+  max-height: 300px;
+  align-content: center;
+  border: 3px solid gray;
+}
+
+.container-button, .container-header {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+.container-bull, .container-bear {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+.logo  {
+  max-width: 300px;
+  max-height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.initially-hidden {
+  display: none;
+}
+
+.about  {
+ text-align: justify;
+ margin: 10px;
+}
